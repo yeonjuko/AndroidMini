@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#00592D</color>
+    <color name="purple_500">#036635</color>
+    <color name="purple_700">#00592D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 자주 사용하는 색 준비하기 -->
+    <color name="mainColor">#00592D</color>
+</resources>

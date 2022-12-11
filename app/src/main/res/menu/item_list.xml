@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab1"
+        android:icon="@drawable/item_map"
+        android:title="Map" />
+    <item
+        android:id="@+id/tab2"
+        android:icon="@drawable/item_recommend"
+        android:title="Recommendation" />
+    <item
+        android:id="@+id/tab3"
+        android:icon="@drawable/item_board"
+        android:title="Board" />
+    <item
+        android:id="@+id/tab4"
+        android:icon="@drawable/item_bookmark"
+        android:title="Bookmark" />
+    <item
+        android:id="@+id/tab5"
+        android:icon="@drawable/item_chat"
+        android:title="chat" />
+</menu>
